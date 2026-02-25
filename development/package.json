@@ -8,7 +8,7 @@
   "dependencies": {
     "@compli/grpc-php-adapter": "file:/code/",
     "death": "^1.1.0",
-    "grpc": "^1.8.0",
+    "grpc": "^1.24.11",
     "nodemon": "^1.14.11"
   }
 }
