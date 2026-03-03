@@ -23,10 +23,11 @@
     "node": "=>9.2.0"
   },
   "dependencies": {
+    "@grpc/grpc-js": "^1.14.3",
+    "@grpc/proto-loader": "^0.7.15",
     "bole": "^3.0.2",
     "es6-error": "4.1.1",
     "fastcgi-client": "0.0.1",
-    "grpc": "^1.24.11",
     "ip": "^1.1.9",
     "koa": "^2.16.2",
     "prom-client": "^10.2.2"
